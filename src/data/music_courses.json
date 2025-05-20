@@ -1,0 +1,76 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "NETFLIX-GPT",
+      "slug": "ai based netflix gpt",
+      "description": "The MOVIES-GPT App is an AI-driven platform that enhances the Netflix experience. It leverages OpenAI's GPT-3.5 model to provide personalized content recommendations.",
+      "price": 99.99,
+      "instructor": "Rohit arora",
+      "isFeatured": true,
+      "github": "https://github.com/shiavm006/Netflix-GPT-",
+      "livelink": "https://netflix-gpt-eosin-eta.vercel.app",
+      "image": "/courses/Netflix.png"
+    },
+    {
+      "id": 2,
+      "title": "Chess-Game",
+      "slug": "Chess-Game",
+      "description": "A modern, real-time multiplayer chess game built with Node.js, Express, Socket.IO, and Chess.js. Play chess with friends in real-time with a beautiful, responsive interface.",
+      "price": 109.99,
+      "instructor": "my self",
+      "isFeatured": false,
+      "github": "https://github.com/shiavm006/chess.com-clone",
+      "livelink": "https://github.com/shiavm006/chess.com-clone",
+      "image": "/courses/chess2.png"
+    },
+    {
+      "id": 3,
+      "title": "Configure-Bike",
+      "slug": "Configure-Bike",
+      "description": "A simple Configure Bike web application designed with HTML and CSS.",
+      "price": 119.99,
+      "instructor": "my self",
+      "github": "https://github.com/shiavm006/Bike-cutsom-configuration",
+      "livelink": "https://bike-cutsom-configuration.vercel.app",
+      "isFeatured": true,
+      "image": "/courses/Bike.png"
+    },
+    {
+      "id": 4,
+      "title": "2048-Game",
+      "slug": "A Simple 2048 game",
+      "description": "A simple implementation of the classic 2048 game in HTML, CSS, and JavaScript.",
+      "price": 129.99,
+      "instructor": "my self",
+      "github": "https://github.com/shiavm006/2048-game",
+      "livelink": "https://2048-game-sand-sigma.vercel.app/",
+      "isFeatured": false,
+      "image": "/courses/2048.png"
+    },
+    {
+      "id": 5,
+      "title": "Dinning-App",
+      "slug": "Dinning-App",
+      "description": "A Table Booking website interface created with HTML, CSS, and JavaScript is a modern dining companion designed to simplify and elevate the restaurant experience for both customers and establishments.",
+      "price": 139.99,
+      "instructor": "my self",
+      "github": "https://github.com/shiavm006/Dinning",
+      "livelink": "https://dinning-my9urjkyk-shivam-mittals-projects-88b449ed.vercel.app/",
+      "isFeatured": false,
+      "image": "/courses/Dining.png"
+    },
+    {
+      "id": 6,
+      "title": "NOTE-GINIE",
+      "slug": "Textbook Companion app",
+      "description": "NoteGenie is an intelligent note-making platform designed to empower students and lifelong learners by turning scattered thoughts or complex topics into clear, structured, and personalized notes — instantly. Powered by AI to generate notes.",
+      "price": 149.99,
+      "instructor": "Rahul Kumar",
+      "github": "https://github.com/shiavm006/NoteGenie",
+      "livelink": "https://note-genie-seven.vercel.app/",
+      "isFeatured": true,
+      "image": "/courses/Note.png"
+    }
+  ]
+}
